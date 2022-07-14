@@ -4,6 +4,4 @@
   file: /scalar-functions/scalar-functions
   sections:
     - title: date-manipulation
-      file: /scalar-functions/date-manipulation.md
-    - title: date-manipulation
       file: /scalar-functions/date-manipulation
